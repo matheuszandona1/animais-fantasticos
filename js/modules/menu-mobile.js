@@ -15,7 +15,7 @@ export default function initMenuMobile() {
       });
     }
 
-    eventos.forEach(userEvent => menuButton.addEventListener(userEvent, openMenu));
+    eventos.forEach(evento => menuButton.addEventListener(evento, openMenu));
   }
 }
 
