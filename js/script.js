@@ -10,9 +10,6 @@ import initFuncionamento from './modules/funcionamento.js'
 import initFetchAnimais from './modules/fetch-animais.js'
 import initFetchBtc from './modules/fetch-btc.js'
 
-
-
-
 initScrollSuave();
 initAnimacaoScroll();
 initAccordion();
@@ -24,3 +21,4 @@ initMenuMobile();
 initFuncionamento();
 initFetchAnimais();
 initFetchBtc();
+
